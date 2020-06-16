@@ -1,0 +1,22 @@
+body{
+    background-image: url("virus.jpg");
+    background-color: #cccccc;
+    }
+h1{
+    text-align: center;
+}
+a:link {
+    color: greenyellow;
+    text-decoration: none;
+}
+a:visited {
+    color: turquoise;
+    text-decoration: none;
+}
+a:hover{
+    color: orange;
+    text-decoration: none;
+}
+p{
+    color: white;
+}
